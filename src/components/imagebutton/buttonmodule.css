@@ -1,0 +1,6 @@
+.but.full{
+    display: flex;
+    flex-direction: row;
+    margin-top:3px ;
+    background-color: brown;
+}
