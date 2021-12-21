@@ -15,12 +15,12 @@ const images = [
     width: '40%',
   },
   {
-    url: '/static/images/buttons/burgers.jpg',
+    url: 'https://images.unsplash.com/photo-1576089172869-4f5f6f315620?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=626&q=80',
     title: 'ADMIN',
     width: '30%',
   },
   {
-    url: '/static/images/buttons/camera.jpg',
+    url: 'https://images.unsplash.com/photo-1554769944-3138b076c38a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80',
     title: 'GOODS',
     width: '30%',
   },
